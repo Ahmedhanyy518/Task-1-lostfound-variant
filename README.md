@@ -7,6 +7,7 @@ there's no login for this variant.
 Express + MongoDB (Mongoose), one entity that needs full CRUD and request
 validation.
 
+
 ## What's already done for you
 
 - `server/src/index.js`, `server/src/app.js`, `server/src/config/db.js` — app
